@@ -1,0 +1,59 @@
+#machine qui effectue l'addition de 2 entiers codes en binaire
+#symbole pour le blanc
+B
+
+#quadruplets
+q0OYq1
+q0IXq2
+
+q1OGq1
+q1IGq1
+q1XGq1
+q1YGq1
+q1BGq3
+q3OYq6
+q3IXq6
+q3XGq3
+q3YGq3
+
+q2OGq2
+q2IGq2
+q2XGq2
+q2YGq2
+q2BGq4
+q4XGq4
+q4YGq4
+q4OXq6
+q4IYq7
+q7YGq8
+q7OGq8
+q8OIq6
+q8IOq7
+q8BIq6
+q6ODq6
+q6IDq6
+q6XDq6
+q6YDq6
+q6BDq9
+q9IDq9
+q9ODq9
+q9XGq0
+q9YGq0
+
+q0BDq10
+q10XBq11
+q10YBq11
+q11BDq10
+q10BGq12
+q12BGq12
+q12XIq13
+q12YOq13
+q13IGq13
+q13OGq13
+q13XIq13
+q13YOq13
+
+#description instantannee initiale
+#état initial : q0 (devant le symbole du ruban sur lequel est placé la tête de L/E
+#attention il faut au moins un symbole devant l'etat initial
+BBBq0IOIIOOIIIIBIIOIOOIOIOBBB
