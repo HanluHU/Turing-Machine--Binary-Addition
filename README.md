@@ -15,4 +15,4 @@ Cela correspond au calcul :
 
 Remarque : 
 pour simplifier la machine, les chiffres binaires sont écrits par ordre croissant despuissances binaires 
-(le chiffre le plus à gauche correspond à20) et la tête de lecture-écriture estpositionnée sur le premier bit du premier entier.
+(le chiffre le plus à gauche correspond à 2^0) et la tête de lecture-écriture estpositionnée sur le premier bit du premier entier.
